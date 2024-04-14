@@ -2,7 +2,7 @@
 
 Requirements:
 
-Rust
-Postgres
-Docker
+Rust,
+Postgres,
+Docker,
 Docker compose
